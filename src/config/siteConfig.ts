@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "ECHO",
 
 	// 站点 URL
-	site_url: "https://666666.xyz",
+	site_url: "https://7shous.xyz",
 
 	// 站点描述
 	description:
